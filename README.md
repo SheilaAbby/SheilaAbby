@@ -1,6 +1,6 @@
 ### Hi there👋 Reading the Docs ?
-I'm a Software Engineer and a French Language Student 😁.
-Let's talk about Mobile-Web dev - JavaScript, Nodejs, Python.
+I'm a Software Engineer and a French Language Student 😁.\
+Let's talk about Mobile-Web dev - JavaScript, Nodejs, Python.\
 🌱 I’m currently learning TypeScript, Data Science - Machine Learning.
 
 <a href="https://github.com/SheilaAbby/SheilaAbby">
