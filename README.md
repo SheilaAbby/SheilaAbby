@@ -3,7 +3,7 @@ I'm a Software Engineer and a French Language Student 😁.\
 Let's talk about Mobile-Web dev. \
      - JavaScript(Front-end - Vue.js)\
      - Nodejs(Backend - Express js) \
-     - Python(Flask, Django).\
+     - Python(Flask, Django)
      
 🌱 I’m currently learning TypeScript, Data Science - Machine Learning.
 
